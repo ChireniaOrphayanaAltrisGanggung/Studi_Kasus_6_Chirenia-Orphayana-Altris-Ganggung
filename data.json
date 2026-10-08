@@ -1,0 +1,26 @@
+[
+    {
+        "Kode Barang": "B001",
+        "Nama Barang": "Minyak Goreng (1 liter)",
+        "Stok": "25",
+        "Harga": "Rp. 27.000"
+    },
+    {
+        "Kode Barang": "B002",
+        "Nama Barang": "Mie Instan",
+        "Stok": "50",
+        "Harga": "Rp. 27.000"
+    },
+    {
+        "Kode Barang": "B003",
+        "Nama Barang": "Gula Pasir (1 kg)",
+        "Stok": "30",
+        "Harga": "Rp. 19.000"
+    },
+    {
+        "Kode Barang": "B004",
+        "Nama Barang": "Kopi Sachet",
+        "Stok": "20",
+        "Harga": "Rp. 12.000"
+    }
+]
